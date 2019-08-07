@@ -1,0 +1,1 @@
+npm install body-parser connect-ensure-login cookie-parser ejs express-session morgan passport passport-facebook
